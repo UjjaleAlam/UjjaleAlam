@@ -1,11 +1,18 @@
 <h1 align="center">Hi, I'm Ujjale Alam 👋</h1>
 
 <p align="center">
-<i>Self-taught programmer from Nepal, learning by building projects and documenting the journey along the way.</i>
+  <i>Self-taught programmer from Nepal, learning by building projects and documenting the journey along the way.</i>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,html,css,js,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="72" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="44" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="44" alt="VS Code" />
 </p>
 
 ---
@@ -34,7 +41,7 @@ The project is currently under active development. Through NOVA, I'm exploring d
 - 🌐 Website and search integration
 - 🧠 Persistent memory system
 - 📂 File discovery and indexing
-- 📄 PDF, Word, PowerPoint, Excel and text document support
+- 📄 PDF, Word, PowerPoint, Excel, and text document support
 - 🔍 SQLite Full-Text Search (FTS5)
 
 **Technologies:** `Python` · `SQLite (FTS5)` · `SpeechRecognition` · `Edge-TTS` · `PyMuPDF` · `python-docx` · `python-pptx` · `openpyxl`
@@ -86,12 +93,12 @@ Building this project helped me better understand graph data structures, shortes
 
 <p>
   <a href="https://www.linkedin.com/in/ujjale-alam">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-<i>Learning, building, and improving—one project at a time.</i>
+  <i>Learning, building, and improving—one project at a time.</i>
 </p>
