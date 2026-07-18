@@ -6,28 +6,28 @@
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
   </a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" alt="SQLite"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ This GitHub profile documents my learning journey. Every repository reflects som
 
 ---
 
-# 🚀 Current Project
+# 🚀 Featured Project
 
 ## 🤖 NOVA AI Assistant *(Under Development)*
 
@@ -64,7 +64,7 @@ The project is currently under active development. Through NOVA, I'm exploring d
 
 ---
 
-# 📂 Featured Projects
+# 📂 Other Projects
 
 ### 📊 Family Tailoring Business Data Analysis
 
@@ -97,7 +97,7 @@ Building this project helped me better understand graph data structures, shortes
 
 ---
 
-# 🎯 Goals
+# 🎯 Current Goals
 
 - Continue improving NOVA as I learn new technologies.
 - Strengthen my understanding of software development fundamentals.
@@ -109,7 +109,7 @@ Building this project helped me better understand graph data structures, shortes
 # 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjale-alam">
+  <a href="https://www.linkedin.com/in/ujjale-alam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
