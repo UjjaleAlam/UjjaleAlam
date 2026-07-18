@@ -5,12 +5,30 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" alt="SQLite" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" alt="SQLite"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code"/>
+  </a>
 </p>
 
 ---
@@ -42,9 +60,7 @@ The project is currently under active development. Through NOVA, I'm exploring d
 - 📄 PDF, Word, PowerPoint, Excel & text document support
 - 🔍 SQLite Full-Text Search (FTS5)
 
-**Technologies**
-
-`Python` • `SQLite (FTS5)` • `SpeechRecognition` • `Edge-TTS` • `PyMuPDF` • `python-docx` • `python-pptx` • `openpyxl`
+**Technologies:** `Python` • `SQLite (FTS5)` • `SpeechRecognition` • `Edge-TTS` • `PyMuPDF` • `python-docx` • `python-pptx` • `openpyxl`
 
 ---
 
@@ -76,6 +92,7 @@ Building this project helped me better understand graph data structures, shortes
 - SQL
 - HTML, CSS & JavaScript
 - Git
+- GitHub
 - Data Structures & Algorithms
 
 ---
@@ -100,5 +117,5 @@ Building this project helped me better understand graph data structures, shortes
 ---
 
 <p align="center">
-  <i>"Learning, building, and improving—one project at a time."</i>
+  <i>Learning, building, and improving—one project at a time.</i>
 </p>
