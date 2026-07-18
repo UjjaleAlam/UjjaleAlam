@@ -14,7 +14,7 @@
 
 I completed my +2 in Nepal and started learning programming through self-study and hands-on projects. Rather than focusing only on tutorials, I enjoy building real projects that challenge me to learn new concepts and solve practical problems.
 
-This GitHub profile is a record of that journey. Every repository represents something I've learned, whether it's Python, automation, algorithms, or data analysis.
+This GitHub profile is a record of my learning journey. Every repository represents something I've learned, whether it's Python, automation, algorithms, or data analysis.
 
 ---
 
@@ -26,7 +26,7 @@ NOVA is my largest and most ambitious project so far. I started building it as a
 
 The project is currently under active development. Through NOVA, I'm exploring desktop automation, voice interaction, document processing, intelligent search, software architecture, and modular application design.
 
-### Current Features
+#### Current Features
 
 - 🎤 Voice commands and speech recognition
 - 🗣️ Natural text-to-speech responses
@@ -37,9 +37,7 @@ The project is currently under active development. Through NOVA, I'm exploring d
 - 📄 PDF, Word, PowerPoint, Excel and text document support
 - 🔍 SQLite Full-Text Search (FTS5)
 
-### Technologies
-
-`Python` • `SQLite (FTS5)` • `SpeechRecognition` • `Edge-TTS` • `PyMuPDF` • `python-docx` • `python-pptx` • `openpyxl`
+**Technologies:** `Python` · `SQLite (FTS5)` · `SpeechRecognition` · `Edge-TTS` · `PyMuPDF` · `python-docx` · `python-pptx` · `openpyxl`
 
 ---
 
@@ -51,7 +49,7 @@ A learning project using one month of real transaction data from my family's tai
 
 The project involved cleaning and validating manually recorded data, performing exploratory data analysis with Pandas, and creating visualizations to better understand customer and product trends.
 
-**Technologies:** Python • Pandas • Matplotlib
+**Technologies:** `Python` · `Pandas` · `Matplotlib`
 
 ---
 
@@ -61,7 +59,7 @@ A beginner Python project implementing Dijkstra's algorithm for weighted graphs.
 
 Building this project helped me better understand graph data structures, shortest path algorithms, and algorithmic problem-solving.
 
-**Technology:** Python
+**Technology:** `Python`
 
 ---
 
@@ -75,16 +73,7 @@ Building this project helped me better understand graph data structures, shortes
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UjjaleAlam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjaleAlam&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🎯 Goals
+## 🎯 Current Goals
 
 - Continue improving NOVA as I learn new technologies.
 - Strengthen my understanding of software development fundamentals.
@@ -93,7 +82,7 @@ Building this project helped me better understand graph data structures, shortes
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
 <p>
   <a href="https://www.linkedin.com/in/ujjale-alam">
