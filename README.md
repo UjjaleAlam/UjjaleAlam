@@ -20,12 +20,6 @@
   <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
   </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-  </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
