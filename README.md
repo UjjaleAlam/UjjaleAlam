@@ -37,24 +37,25 @@ This GitHub profile documents my learning journey. Every repository reflects som
 
 # 🚀 Featured Project
 
-## 🤖 NOVA AI Assistant *(Under Development)*
+## 🤖 NOVA AI Assistant *(Active Development)*
 
-NOVA is my largest and most ambitious project so far. I started building it to strengthen my Python skills through practical development, and it has gradually evolved into a personal AI assistant.
+NOVA is a modular AI-powered Personal Operating System that I'm building to deepen my knowledge of software engineering, artificial intelligence, automation, and system architecture through real-world development.
 
-The project is currently under active development. Through NOVA, I'm exploring desktop automation, voice interaction, document processing, intelligent search, software architecture, and modular application design.
+Designed with a voice-first philosophy, NOVA combines voice interaction, desktop automation, file intelligence, memory, and computer vision into a unified assistant capable of understanding and interacting with both the user and the desktop environment.
 
 ### Current Features
 
-- 🎤 Voice commands & speech recognition
+- 🎤 Wake word detection & speech recognition
 - 🗣️ Natural text-to-speech responses
 - 🖥️ Desktop automation & application control
-- 🌐 Website & search integration
-- 🧠 Persistent memory system
-- 📂 File discovery & indexing
+- 🌐 Website navigation & search integration
+- 🧠 Persistent memory & fact recall
+- 📂 Intelligent file & folder search
 - 📄 PDF, Word, PowerPoint, Excel & text document support
 - 🔍 SQLite Full-Text Search (FTS5)
+- 👁️ Screen capture & OCR-powered vision system *(Phase 6)*
 
-**Technologies:** `Python` • `SQLite (FTS5)` • `SpeechRecognition` • `Edge-TTS` • `PyMuPDF` • `python-docx` • `python-pptx` • `openpyxl`
+**Technologies:** `Python` • `PySide6` • `SQLite (FTS5)` • `SpeechRecognition` • `Edge-TTS` • `EasyOCR` • `PyMuPDF` • `python-docx` • `python-pptx` • `openpyxl` • `MSS` • `Pillow`
 
 ---
 
